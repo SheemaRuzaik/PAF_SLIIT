@@ -1,6 +1,6 @@
 package paf;
 
-public class Service_changes {
+public class Class_insert {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
