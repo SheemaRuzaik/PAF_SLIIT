@@ -3,5 +3,7 @@ package paf;
 public class Admin {
 
 	
-	//sys
+	//system.out.print()
+	
+	
 }
